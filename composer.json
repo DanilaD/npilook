@@ -1,5 +1,5 @@
 {
-  "name": "npilookup",
+  "name": "npilook",
   "type": "library",
   "description": "PHP Library to interact with the NPPES NPI Registry API",
   "keywords": [
