@@ -17,8 +17,8 @@
         }
     ],
  
-  "npilook": "dev-master",
-  "minimum-stability": "dev",
+  "npilook": "master",
+  "minimum-stability": "master",
   
   "autoload": {
     "psr-0": {
