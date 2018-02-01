@@ -1,6 +1,6 @@
 {
 
-  "name": "NPI LOOKUP",
+  "name": "NPILOOKUP",
   "description": "PHP Library to interact with the NPPES NPI Registry API",
 	
   "repositories": [
