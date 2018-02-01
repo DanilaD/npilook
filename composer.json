@@ -1,6 +1,6 @@
 {
 
-  "name": "DanilaD/npilook",
+  "name": "danilad/npilook",
   "description": "PHP Library to interact with the NPPES NPI Registry API",
 	
   "repositories": [
