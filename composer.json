@@ -15,8 +15,10 @@
             "type":"git",
             "url":"https://github.com/DanilaD/npilook"
         }
-    ]
+    ],
  
+  "npilook": "dev-master",
+  
   "autoload": {
     "psr-0": {
       "npilookup\\": "src/"
