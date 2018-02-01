@@ -24,15 +24,11 @@
 	
   "require-all": true,
   "require-dependencies": true,
-
+  "license": "MIT",  
+	
   "autoload": {
     "psr-0": {
       "npilookup\\": "src/"
     }
-  },
-	
-  {
-    "license": "MIT"
   }
-	
 }
